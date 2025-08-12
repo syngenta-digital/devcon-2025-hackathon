@@ -79,9 +79,9 @@ For detailed information about connecting to data sources and data usage guideli
 - Include demo/presentation materials
 
 ### ⏰ Important Dates:
-- **Event Date:** [To be announced]
-- **Submission Deadline:** [To be announced]
-- **Demo Presentations:** [To be announced]
+- **Competition Period:** September 1-19
+- **Submission Deadline:** September 19
+- **Demo Presentations:** September 24
 
 ---
 
