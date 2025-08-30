@@ -11,8 +11,8 @@ Welcome to the **DevCon 2025 Hackathon**! This repository contains setup instruc
 Portkey is an AI gateway that provides unified access to multiple AI models and enhanced observability.
 
 ### Setup Steps:
-1. **Add participants** to `ws-devcon-2025-hackathon-role-member` group in Azure AD  
-   👤 **Admins:** @Rahul Miragi @Jacques Sa @Akshay Dharerao @Lalitkumar
+1. You must be included in `ws-devcon-2025-hackathon-role-member` group in Azure AD (contact our support team)
+   <!-- 👤 **Admins:** @Rahul Miragi @Jacques Sa @Akshay Dharerao @Lalitkumar -->
 
 2. **Access Portkey** via [app.portkey.ai](https://app.portkey.ai) and sign in via SSO
 
@@ -34,7 +34,7 @@ n8n is a workflow automation platform that lets you connect different services a
 1. **Login** to [n8n.syngenta.com](https://n8n.syngenta.com)
 
 2. **Project Creation** (Admin only)  
-   👤 **Admins:** @Rahul Miragi @Jacques Sa @Akshay Dharerao @Lalitkumar
+   <!-- 👤 **Admins:** @Rahul Miragi @Jacques Sa @Akshay Dharerao @Lalitkumar -->
 
 3. **Team Assignment** - Members will be assigned to respective projects
 
@@ -48,25 +48,14 @@ n8n is a workflow automation platform that lets you connect different services a
 
 ---
 
-## 📊 Data Sources & Guidelines
-
-For detailed information about connecting to data sources and data usage guidelines, please refer to [`DATA.md`](./DATA.md).
-
-### Quick Reference:
-- **Primary recommendation:** Use mock data only
-- **Alternatives:** Excel files, JSON datasets, temporary RDS instances
-- **RDS access:** Available via bastion host (cleanup required)
-- **Remember:** Never use production or real customer data
-
----
-
 ## 🏆 Hackathon Guidelines
 
 ### 📝 Submission Requirements:
-- All solutions must use approved tools (Portkey, n8n)
-- Follow data security guidelines strictly
-- Document your solution approach
-- Include demo/presentation materials
+- Make a 8-10 video recording showing up your solution
+- The solution must use approved tools (Portkey, n8n)
+- Must follow data security guidelines strictly (e.g. protect PII)
+<!--- Document your solution approach
+- Include demo/presentation materials-->
 
 ### ⏰ Important Dates:
 - **Competition Period:** September 1-19
@@ -86,9 +75,9 @@ Need help? Reach out to our support team:
 
 # 📊 Data Sources & Connection Guidelines
 
-## ⚠️ CRITICAL: Data Security Policy
+### ⚠️ CRITICAL: Data Security Policy
 
-> **🔒 MANDATORY:** Only use **MOCK DATA** for this hackathon. Using real or production data is **STRICTLY PROHIBITED** and may result in disqualification.
+> **🔒 MANDATORY:** Only use **MOCK DATA** for this hackathon. Using real or production data, without proper masking or concealment of any personally identifiable information, is **STRICTLY PROHIBITED** and may result in disqualification.
 
 ---
 
