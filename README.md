@@ -35,9 +35,8 @@ n8n is a workflow automation platform that lets you connect different services a
 
 ### Setup Steps:
 1. **Login** to [n8n.syngenta.com](https://n8n.syngenta.com)
-
-2. Any team member or spoc start creating project in their personal workspace and saves it.
-3. Share that workflow with your team members and start building together.  
+2. Any team member or spoc starts creating a project in their personal workspace and click save.
+3. Share the saved workflow with your team members and start building together.  
 
 ### 📚 n8n Resources:
 
