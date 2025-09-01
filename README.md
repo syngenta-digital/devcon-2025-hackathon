@@ -16,8 +16,11 @@ Portkey is an AI gateway that provides unified access to multiple AI models and 
 
 2. **Access Portkey** via [app.portkey.ai](https://app.portkey.ai) and sign in via SSO
 
-3. **API Keys** will be pre-configured and provided to teams
-
+3. Switch to Syngenta PROD org (if you see Syngeta UAT on first login on bottom left of the screen). 
+4. On top right, select **devcon_2025-hackathon** workspace. 
+5. Go to API KEYS tab and create your team's API key of type service. 
+6. Start exploring portkey playground, n8n integration and model selection.
+   
 ### 📚 Portkey Resources:
 
 - 📖 [What is Portkey?](https://portkey.ai/docs/introduction/what-is-portkey)
